@@ -38,3 +38,7 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
+
+help('keywords')
+print(min(20,30))
+print(sum([20,30]))
